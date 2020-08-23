@@ -27,3 +27,14 @@
 #navbar li a:hover {
     text-decoration: underline;
 }
+
+.products {
+    display: flex;
+}
+
+.product {
+    background-color: #eee;
+    margin-right: 10px;
+    padding: 30px;
+    text-align: center;
+}
