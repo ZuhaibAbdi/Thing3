@@ -7,3 +7,23 @@
     width: 600px;
     height: 300px;
 }
+
+#navbar {
+    background-color: lightblue;
+    text-align: center;
+}
+
+#navbar li {
+    display: inline-block;
+}
+
+#navbar li a {
+    display: block;
+    padding: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+#navbar li a:hover {
+    text-decoration: underline;
+}
