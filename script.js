@@ -16,7 +16,7 @@ var mySwiper = new Swiper('.swiper-container', {
 
 
     autoplay: {
-        delay: 3000,
+        delay: 2500,
     },
     width: 600,
 })
